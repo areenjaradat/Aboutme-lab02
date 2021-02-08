@@ -1,0 +1,37 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+}
+
+th, td{
+    border: rgb(199, 70, 70) solid 1px;
+    
+}
+nav ul li {
+    text-align: center;
+    color: blueviolet;
+}
+
+.image1{
+    width: 500px;
+}
+
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+ol li {
+    font-size: large;
+}
+
+#para1{
+ 
+        border-style: solid;
+        border-width: 3px;
+        border-left-width: 10px;
+        border-right-width: 10px;
+        border-color: rgb(214, 86, 86);
+        border-radius: 25px;
+        max-width: 300px;
+}
