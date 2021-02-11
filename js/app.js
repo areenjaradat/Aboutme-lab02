@@ -1,5 +1,5 @@
 `use strict`;
-/*
+
 answers = [];
 let score = 0;
 guessingnumber = parseInt(Math.random() * 11);
@@ -182,4 +182,3 @@ confirm(
     " welcome in our page i hope you will has benefit info and your final score is " +
     score
 );
-*/
